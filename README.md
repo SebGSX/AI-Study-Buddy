@@ -31,7 +31,7 @@ No matter how you choose to proceed, you'll need [this](https://github.com/SebGS
 ### Preparing Your Prompt
 The prompt I've prepared uses a format called [markdown](https://www.markdownguide.org/) to annotate the text in a simple way that indicates layout. You must copy the text I've provided verbatim including the markdown. When viewing the prompt on GitHub by following the link above, you will notice 3 buttons above the content: Preview, Code, and Blame. Choose Code to see the source.
 
-At the top of the prompt is a section with variables that you will need to update with your information. The information helps the AI understand what is expected. Within the text of the prompt you'll see the variables enclosed in double-braces `{{VARIABLE-NAME}}`.
+At the top of the prompt is a section with variables that you will need to update with your information. The information helps the AI understand what is expected. Within the text of the prompt you'll see the variables enclosed in double-braces `{{VARIABLE-NAME}}`. The most important is the `SKILL-LEVEL` variable. That variable should contain one of `Novice`, `Advanced Beginner`, `Competent`, `Proficient`, and `Expert` as defined within the highly regarded and well-understood Dreyfus Model of Skill Acquisition. The skill level helps the AI to provide the most appropriate tutoring.
 
 ```
 ---
@@ -39,6 +39,7 @@ COURSE: Essential Mathematics 2 (MST125)
 DOMAIN: Mathematics & Statistics
 LEVEL: undergraduate
 QUALIFICATION: BSc(Honours) in Mathematics and Statistics
+SKILL-LEVEL: Proficient
 ---
 ```
 
