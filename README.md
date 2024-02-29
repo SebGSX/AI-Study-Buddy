@@ -31,19 +31,21 @@ No matter how you choose to proceed, you'll need [this](https://github.com/SebGS
 ### Preparing Your Prompt
 The prompt I've prepared uses a format called [markdown](https://www.markdownguide.org/) to annotate the text in a simple way that indicates layout. You must copy the text I've provided verbatim including the markdown. When viewing the prompt on GitHub by following the link above, you will notice 3 buttons above the content: Preview, Code, and Blame. Choose Code to see the source.
 
-At the top of the prompt is a section with variables that you will need to update with your information. The information helps the AI understand what is expected. Within the text of the prompt you'll see the variables enclosed in double-braces `{{VARIABLE-NAME}}`. The most important is the `SKILL-LEVEL` variable. That variable should contain one of `Novice`, `Advanced Beginner`, `Competent`, `Proficient`, and `Expert` as defined within the highly regarded and well-understood Dreyfus Model of Skill Acquisition. The skill level helps the AI to provide the most appropriate tutoring.
+At the top of the prompt is a section with variables that you will need to update with your information. The information helps the AI understand what is expected. Within the text of the prompt you'll see the variables enclosed in double-braces `{{VARIABLE-NAME}}`. The most important are the `SKILL-LEVEL` and `LANGUAGE-SKILL-LEVEL` variables. Those variables should contain one of `Novice`, `Advanced Beginner`, `Competent`, `Proficient`, and `Expert` as defined within the highly regarded and well-understood Dreyfus Model of Skill Acquisition. The skill level variables help the AI to provide the most appropriate tutoring.
 
 ```
 ---
-COURSE: Essential Mathematics 2 (MST125)
+COURSE: Essential Mathematics 1 (MST124)
 DOMAIN: Mathematics & Statistics
-LEVEL: undergraduate
-QUALIFICATION: BSc(Honours) in Mathematics and Statistics
+EDUCATION-LEVEL: undergraduate
+QUALIFICATION: BSc in Mathematics and Statistics
 SKILL-LEVEL: Proficient
+LANGUAGE: English (UK)
+LANGUAGE-SKILL-LEVEL: Expert
 ---
 ```
 
-At the end of the prompt, you'll find a section called "Your Student" that you will need to complete. In that section, replace the ellipses "..." with information about yourself as a student. Be sure that the information you provide aligns with the headings that precede the ellipses. Providing such information helps the AI to understand you as a student. Accordingly, only provide the information that would help the AI tailor its responses such as a need to understand the "why" before the "how" or "what".
+Please ensure that you ChatGPT Custom Instructions contain appropriate guidance for the AI. If you have any hard boundaries that you want the AI to respect, be sure to list it under a section entitled `# Hard Boundary` within the `How would you like ChatGPT to respond?` section of the Custom Instructions. The AI Study Buddy prompt directs the AI to respect such a boundary.
 
 > Please remember to be careful with your personal information and that of others. The AI does not need anyone's personally identifiable information (PII) to be effective.
 
