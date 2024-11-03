@@ -78,11 +78,13 @@ At the top of the prompt is a section with variables that you will need to updat
 
 ```Markdown
 ---
-COURSE: Essential Mathematics 1 (MST124)
-DOMAIN: Mathematics & Statistics
-EDUCATION-LEVEL: undergraduate
+COURSE: Pure Mathematics (M208)
+DOMAIN: Pure Mathematics
+EDUCATION-LEVEL: undergraduate (stage 2)
+COUNTRY: United Kingdom
 QUALIFICATION: BSc in Mathematics and Statistics
-SKILL-LEVEL: Proficient
+CURRENT-SKILL-LEVEL: Proficient
+TARGET-SKILL-LEVEL: Expert
 LANGUAGE: English (UK)
 LANGUAGE-SKILL-LEVEL: Expert
 ---
