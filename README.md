@@ -10,6 +10,8 @@ This project provides several AI tutoring prompts designed to assist students at
 
 > **Disclaimer:** Be sure at all times to check that your use of AI does not break any data privacy, protection, or confidentiality rules, regulations, laws, or contractual obligations, and that copyright as well as intellectual property rights are respected. The information contained in this and any related files is provided for information purposes only. The author cannot be held liable for any loss whatsoever for your use of any system including but not limited to artificial intelligence. Your use of the information contained herein is solely at your own discretion and risk. The information provided in this and any related files is provided "AS-IS" with no warranty express or otherwise implied.
 
+**TL;DR:** The prompt is available here: [Tutor Prompt for AI](/docs/tutor-prompt-for-AI.md).
+
 ## Objective
 
 The objective of this project is to democratise access to the kind of personal, individualised tutoring that until quite recently was the preserve of the affluent. Generative AI while not perfect and must be checked--in much the same way one checks guidance from tutors or other sources--it does provide an on-demand and both highly intelligent and knowledgeable resource.
@@ -62,13 +64,13 @@ The author has experimented with a variety of custom instructions over the past 
 
 There are many AI services to choose from; however, I use OpenAI's ChatGPT. You can find ChatGPT [here](https://chatgpt.com/). There is a free version of ChatGPT using the GPT-3.5 model; however, GPT-4 is the model that passed the IQ test and bar exam, which is why I use the paid version and the latest stable (non-preview) model.
 
-At minimum, you'll need [ChatGPT Plus](https://openai.com/blog/chatgpt-plus) if you want the paid version. I use [ChatGPT Team](https://openai.com/chatgpt/team) because of its enhanced data protection support, which I need.
+At minimum, you'll need [ChatGPT Plus](https://openai.com/blog/chatgpt-plus) if you want the paid version.
 
 > Please be sure to check data privacy concerns when using any service including but not limited to generative AI services.
 
 ### Second, Create Your Study Buddy
 
-To proceed, you'll need the [Tutor Prompt for AI](https://github.com/SebGSX/AI-Study-Buddy/blob/main/tutor-prompt-for-AI.md) prompt. Prompt engineering is the careful process of explaining to a generative AI system exactly what you want it to do for you. While it may look simple enough, quite a lot goes into structuring an effective prompt. OpenAI has some guidance [here](https://platform.openai.com/docs/guides/prompt-engineering) whereas general guidance can be found [here](https://www.promptingguide.ai/).
+To proceed, you'll need the [Tutor Prompt for AI](/docs/tutor-prompt-for-AI.md) prompt. Prompt engineering is the careful process of explaining to a generative AI system exactly what you want it to do for you. While it may look simple enough, quite a lot goes into structuring an effective prompt. OpenAI has some guidance [here](https://platform.openai.com/docs/guides/prompt-engineering) whereas general guidance can be found [here](https://www.promptingguide.ai/).
 
 #### Preparing the Prompt
 
@@ -120,7 +122,7 @@ If using the OpenAI app for mobile devices, we can talk to our AI Study Buddies 
 
 ## Contributing
 
-Contributions are welcome as are corrections. The author follows Crocker's Rules. Direct, honest, and constructive feedback is appreciated. Please submit a pull request with your changes or an issue with your feedback.
+Please see [Contributing](/CONTRIBUTING.md) for details.
 
 ## License
 
