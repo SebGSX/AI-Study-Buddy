@@ -3,7 +3,8 @@
 The team prioritizes security emphasizing rigorous identification and mitigation of vulnerabilities in code, prompts,
 and deliverables. We value responsible disclosure to maintain high standards of integrity and safety.
 
-To report a security issue—such as flaws, please use the GitHub Security Advisory ["Report a Vulnerability"](https://github.com/SebGSX/AI-Study-Buddy/security/advisories/new) tab.
+To report a security issue—such as flaws, please use the GitHub Security
+Advisory ["Report a Vulnerability"](https://github.com/SebGSX/AI-Study-Buddy/security/advisories/new) tab.
 
 Please may you provide detailed information, including reproduction steps, affected components (e.g., specific
 prompts or code modules), potential impacts on security or maintainability, and any evidence from testing with AI

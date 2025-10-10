@@ -24,7 +24,7 @@ feedback is appreciated. Please submit a pull request with your changes or an is
 
 ### Style and Conventions
 
-Please follow the existing style and conventions used in the project. These are generally the industry standard. If 
+Please follow the existing style and conventions used in the project. These are generally the industry standard. If
 you identify any inconsistencies, please point them out in your contribution.
 
 ### Commit Guidelines
@@ -34,9 +34,10 @@ Please follow [Conventional Commits](https://www.conventionalcommits.org/en/v1.0
 ## Intellectual Property
 
 By contributing, you agree that your contributions are your original work and do not infringe on any third-party
-intellectual property rights. You grant the project maintainers a perpetual, worldwide, non-exclusive, royalty-free 
+intellectual property rights. You grant the project maintainers a perpetual, worldwide, non-exclusive, royalty-free
 license to use, modify, and distribute your contributions.
 
 ## Review Process
-Contributions are reviewed for alignment with the project's focus on accelerating high-quality work while 
+
+Contributions are reviewed for alignment with the project's focus on accelerating high-quality work while
 maintaining human oversight and responsibility.

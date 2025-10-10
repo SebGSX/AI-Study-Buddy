@@ -16,6 +16,7 @@ assignees: ''
 ## To Reproduce
 
 Steps to reproduce the behavior:
+
 1. Go to '...'
 2. Click on '....'
 3. Scroll down to '....'
@@ -31,12 +32,12 @@ If applicable, add screenshots to help explain the problem. Please ensure that a
 
 ## Device (please complete the following information):
 
- - Type: [e.g. Desktop, Laptop, Tablet, Mobile]
- - Model: [e.g. iPhone6, Pixel3]
- - Manufacturer: [e.g. Apple, Samsung]
- - OS: [e.g. iOS]
- - Browser [e.g. chrome, safari]
- - Version [e.g. 22]
+- Type: [e.g. Desktop, Laptop, Tablet, Mobile]
+- Model: [e.g. iPhone6, Pixel3]
+- Manufacturer: [e.g. Apple, Samsung]
+- OS: [e.g. iOS]
+- Browser [e.g. chrome, safari]
+- Version [e.g. 22]
 
 ## Additional context:
 
